@@ -8,19 +8,18 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbas-abbasi" alt="abbas-abbasi" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **Golang, PHP, Python, C-Sharp, C/C-PlusPlus**
-  
-- 👨‍💻 All of my projects are available at [abbasabbasigo.ir](abbasabbasigo.ir)
+- 🌱 I’m currently learning **Golang, PHP, Python, C-Sharp, C/C-PlusPlus</p>
+<p align="center">
+- 👨‍💻 All of my projects are available at [abbasabbasigo.ir](abbasabbasigo.ir)</p>
+<p align="center">
+- 📝 I regularly write articles on [abbasabbasigo.ir](abbasabbasigo.ir)</p>
+<p align="center">
+- 💬 Ask me about **Golang, PHP, Python, C-Sharp, C/C-PlusPlus**</p>
+<p align="center">
+- 📫 How to reach me **abbasabbasigo@gmail.com**</p>
+<p align="center">
+- 📄 Know about my experiences [abbasabbasigo.ir](abbasabbasigo.ir)</p>
 
-- 📝 I regularly write articles on [abbasabbasigo.ir](abbasabbasigo.ir)
-
-- 💬 Ask me about **Golang, PHP, Python, C-Sharp, C/C-PlusPlus**
-
-- 📫 How to reach me **abbasabbasigo@gmail.com**
-
-- 📄 Know about my experiences [abbasabbasigo.ir](abbasabbasigo.ir)
-- 
-</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/abbasacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbasacodes" height="30" width="40" /></a>
