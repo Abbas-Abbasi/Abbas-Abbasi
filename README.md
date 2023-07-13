@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abbas Abbasi</h1>
 <h3 align="center">A passionate Back-end developer from Iran</h3>
-<img align ="center" alt="coding" width="400" src="https://github.com/Abbas-Abbasi/Abbas-Abbasi/assets/137259478/5777fbfa-eb8f-413f-8150-f9af4757fbb5">
+<img align ="middle" alt="coding" width="400" src="https://github.com/Abbas-Abbasi/Abbas-Abbasi/assets/137259478/5777fbfa-eb8f-413f-8150-f9af4757fbb5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas-abbasi&label=Profile%20views&color=0e75b6&style=flat" alt="abbas-abbasi" /> </p>
 
